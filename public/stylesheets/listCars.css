@@ -24,7 +24,7 @@ p {
 }
 
 .container-list-car {
-    width: 1100px;
+    width: 1200px;
     background-color: #e5e5e5;
     padding-left: 25px;
     padding-top: 27px;
@@ -130,4 +130,8 @@ span.list-car {
 .btn.btn.btn-success:hover {
     background-color: #5cb85f;
     color: white;
+}
+
+section{
+    background-color: #e5e5e5;
 }

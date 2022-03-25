@@ -15,6 +15,7 @@ body {
     position: fixed;
     right: 0;
     top: 0;
+    z-index: 2;
 }
 
 .navbar {
@@ -38,6 +39,7 @@ body {
     height: 100vh;
     color: white !important;
     font-size: 12px;
+    z-index: 3;
 }
 
 .main-menu a,
@@ -65,6 +67,7 @@ body {
     width: 220px;
     height: 100vh;
     background-color: white;
+    z-index: 2;
 }
 
 .list-menu {
